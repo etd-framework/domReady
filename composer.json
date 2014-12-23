@@ -1,0 +1,6 @@
+{
+  "name": "etdsolutions/domready",
+  "description": "domReady plugin for RequireJS",
+  "homepage": "https://github.com/requirejs/domReady",
+  "license": "MIT"
+}
